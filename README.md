@@ -76,13 +76,12 @@ Rodando na porta 4000
 ![](images/GraphqlUI.png)
 
 
-**GraphiQL tem o recurso de autocompete**
+**GraphiQL tem o recurso de autocomplete**
+
 ![](images/autocomplete.png)
 
 
 **Exemplos de consulta e inserção de dados**
-
-
 > Inserindo dados na tabela de Usuario (Users)
 >```bash
 >mutation {
